@@ -1,0 +1,72 @@
+body{
+    background-image: url(img/desk.jpg);
+}
+h3{
+    color: white;
+    
+}
+.box{
+    border-width: 9px;
+    border-style: solid;
+    background-color: grey;
+}
+.wraper{
+    background-color: rgb(1, 17, 29);
+    height: 550px;
+    width: 450px;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 0 0 5px 5px;
+    
+
+
+
+
+
+}
+p {
+    text-align: center;
+    padding: 7px;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+h5{
+    color: black;
+}
+
+header{
+    position: absolute;
+    text-align: center;
+    background-color: rgb(1, 7, 29);
+    height: 120px;
+    width: 450px;
+    top: -8%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    border-radius: 5px 5px 0 0;
+   
+}
+.footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    transform: translate(-50%, 50%);
+
+
+}
+
+#cancel{
+    color: red;
+}
+#sub{
+    color: green;
+}
+
+
+
